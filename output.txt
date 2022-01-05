@@ -1,0 +1,6 @@
+nohup: ignoring input
+yarn run v1.22.17
+$ next start
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Loaded env from /var/www/eren2/.env.local
+https://morning-divine-night.solana-mainnet.quiknode.pro/3341c96f0940c997df5c68715e4d58b1d1750951/
